@@ -36,7 +36,7 @@ docker compose up setup
 ```
 
 ```sh
-docker compose up
+docker compose up -d
 ```
 
 ![Animated demo](https://user-images.githubusercontent.com/3299086/155972072-0c89d6db-707a-47a1-818b-5f976565f95a.gif)
